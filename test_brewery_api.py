@@ -65,7 +65,7 @@ class TestAPI:
 
 
 def main():
-    '''Главная функция.'''
+    pass
 
 
 if __name__ == '__main__':
